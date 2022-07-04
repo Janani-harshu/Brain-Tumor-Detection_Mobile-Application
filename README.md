@@ -14,7 +14,7 @@ The converted tflite model can be seen in https://github.com/Janani-harshu/Brain
 # Third step: Create a andriod studio application
 Refer Andriod Studio.7Z zip file (written in java)
 
-![Picture3](https://user-images.githubusercontent.com/84040888/177107124-a1282a21-d036-4828-9416-545a393644c9.png)
+
+https://user-images.githubusercontent.com/84040888/177108662-45f31707-a1cf-4df1-bc06-dafcd1480ce2.mp4
 
 
-![Picture4](https://user-images.githubusercontent.com/84040888/177107192-54805468-ccdb-4428-a8e6-4a16557f8ea8.png)
