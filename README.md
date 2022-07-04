@@ -15,6 +15,6 @@ The converted tflite model can be seen in https://github.com/Janani-harshu/Brain
 Refer Andriod Studio.7Z zip file (written in java)
 
 
-https://user-images.githubusercontent.com/84040888/177108662-45f31707-a1cf-4df1-bc06-dafcd1480ce2.mp4
+
 
 
