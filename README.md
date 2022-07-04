@@ -20,4 +20,4 @@ Screenshots of app predictions:
 
 
 Happy coding! star & fork if you liked the project.
-Any doubts, please feel free to contact: janjanani13@gmail.com
+Any doubts, please feel free to reach out: janjanani13@gmail.com
