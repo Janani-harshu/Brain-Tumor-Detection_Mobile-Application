@@ -9,5 +9,7 @@ Kaggle notebook: https://www.kaggle.com/code/jananiharshu/brain-tumor-detection-
 Second step: To convert the trained model to tflite 
 (Refer https://github.com/Janani-harshu/Brain-Tumor-Detection_Mobile-Application/blob/main/modelconverter.py)
 
+The converted tflite model can be seen in https://github.com/Janani-harshu/Brain-Tumor-Detection_Mobile-Application/blob/main/model.tflite
+
 Third step: Create a andriod studio application
 Refer Andriod Studio.7Z zip file!
