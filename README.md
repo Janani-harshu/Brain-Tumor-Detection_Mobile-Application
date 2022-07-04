@@ -6,7 +6,8 @@ This was done using Kaggle datasets.
 Kaggle dataset used: https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection
 Kaggle notebook: https://www.kaggle.com/code/jananiharshu/brain-tumor-detection-simple-cnn
 
-Second step: To convert the trained model to tflite (Refer 
+Second step: To convert the trained model to tflite 
+(Refer https://github.com/Janani-harshu/Brain-Tumor-Detection_Mobile-Application/blob/main/modelconverter.py)
 
 Third step: Create a andriod studio application
 Refer Andriod Studio.7Z zip file!
