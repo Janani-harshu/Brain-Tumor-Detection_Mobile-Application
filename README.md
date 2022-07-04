@@ -12,4 +12,5 @@ Kaggle notebook: https://www.kaggle.com/code/jananiharshu/brain-tumor-detection-
 The converted tflite model can be seen in https://github.com/Janani-harshu/Brain-Tumor-Detection_Mobile-Application/blob/main/model.tflite
 
 # Third step: Create a andriod studio application
-Refer Andriod Studio.7Z zip file!
+Refer Andriod Studio.7Z zip file (written in java)
+
